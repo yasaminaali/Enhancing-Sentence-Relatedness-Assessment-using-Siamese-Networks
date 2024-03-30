@@ -10,9 +10,9 @@ The proposed system integrates a Siamese Network architecture with pre-trained l
 ## Model, Embeddings, Strategies
 
 ### Embeddings
-- "Universal Sentence Encoder(USE)" for [USE]()
-- "BERT" for [BERT]()
-- "RoBERTa for [RoBERTa]()
+- "Universal Sentence Encoder(USE)" for [USE](https://arxiv.org/abs/1803.11175)
+- "BERT" for [BERT](https://arxiv.org/abs/1810.04805)
+- "RoBERTa for [RoBERTa](https://arxiv.org/abs/1907.11692)
 
 ## Cite This Paper
 ```
