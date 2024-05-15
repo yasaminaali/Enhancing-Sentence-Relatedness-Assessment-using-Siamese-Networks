@@ -1,5 +1,5 @@
 # Enhancing Sentence Relatedness Assessment using Siamese Networks
-ACL2024
+NAACL2024
 [Paper]()
 
 Authors: Yasamin Aali, Sardar Hamidian, Parsa Farinneya
