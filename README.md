@@ -14,5 +14,5 @@ The proposed system integrates a Siamese Network architecture with pre-trained l
 
 ## Cite This Paper
 ```
-
+Yasamin Aali, Sardar Hamidian, and Parsa Farinneya. 2024. YSP at SemEval-2024 Task 1: Enhancing Sentence Relatedness Assessment using Siamese Networks. In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), pages 959–963, Mexico City, Mexico. Association for Computational Linguistics.
 ```
